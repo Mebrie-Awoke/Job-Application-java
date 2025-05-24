@@ -28,9 +28,6 @@ You’ll need a MySQL database with relevant tables like:
 - `applications` – to track user applications
 - `interviews` – to schedule interviews
 
-## 🔧 Setup Instructions
+- ...........
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Mebrie-Awoke/job-application-system.git
-   cd job-application-system
+
