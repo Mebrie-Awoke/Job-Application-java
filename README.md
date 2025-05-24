@@ -32,5 +32,5 @@ You’ll need a MySQL database with relevant tables like:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/job-application-system.git
+   git clone https://github.com/Mebrie-Awoke/job-application-system.git
    cd job-application-system
