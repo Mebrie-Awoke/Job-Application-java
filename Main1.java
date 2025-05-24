@@ -49,15 +49,9 @@ class LoginRegisterFrame extends JFrame {
         aboutButton.addActionListener(e -> {
             JOptionPane.showMessageDialog(this,
                     "Job Application Tracking System \n" +
-                            "WE ARE SECOND YEAR INFORMATION SYSTEM STUDENTS, " +
-                            "OUR GROUP HAVE SIX MEMBERS \n" +
-                            "\t1, Mebrie Awoke\n" +
-                            "\t2, Sophones Bewketu\n" +
-                            "\t3, Aman Ataklety\n" +
-                            "\t4, Yeabsira Getachew\n" +
-                            "\t5, Hunilign \n" +
-                            "\t6,Solomon Melese\n" +
-                            "CONTACTS: phone +251 922 545 447 \n" +
+                            "My  name is Mebrie Awoke I AM SECOND YEAR INFORMATION SYSTEM STUDENT " +
+                            "you can give me any comment "+
+                            "CONTACT: phone +251 922 545 447 \n" +
                             "\tEmail: mebrieawoke941@gmail.com\n" +
                             "\tTeg: @ze_meryma_21",
                     "About",
